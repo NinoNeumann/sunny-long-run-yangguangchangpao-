@@ -1,0 +1,6 @@
+sckey = '1312'
+IMEI = 'efd1cb99d12449e9b16c39afb3f8878b'
+IMEI1 = 'bed3eafde1dc41f2bb960467e4158669' #我的
+IMEI2 = 'efd1cb99d12449e9b16c39afb3f8878b' #宇康的
+IMEI3 = 'ec7a7c8937154535b9740ba5540b14ee' #刚哥的
+IMEI4 = 'f7860494463b47beb1395cb71550f4d3' #强哥
